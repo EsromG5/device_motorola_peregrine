@@ -1,15 +1,15 @@
 [
   {
-    "remote": "github",
+    "remote": "XOSPD",
     "repository": "MAD-Team/android_device_motorola_msm8226-common",
     "target_path": "device/motorola/msm8226-common",
     "revision": "xosp-n"
   },
   {
     "remote": "XOSPD",
-    "repository": "LineageOS/android_device_qcom_common",
+    "repository": "XOSP-Project/android_device_qcom_common",
     "target_path": "device/qcom/common",
-    "revision": "cm-14.1"
+    "revision": "xosp-n-rebase"
   },
   {
     "remote": "XOSPD",
@@ -24,7 +24,7 @@
     "revision": "cm-14.1"
   },
   {
-    "remote": "github",
+    "remote": "XOSPD",
     "repository": "TheMuppets/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
     "revision": "cm-14.1"
